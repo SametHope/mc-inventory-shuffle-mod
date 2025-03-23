@@ -1,0 +1,29 @@
+{
+	"schemaVersion": 1,
+	"id": "inventory-shuffle",
+	"version": "${version}",
+	"name": "Inventory Shuffle",
+	"description": "Adds group-based per-player inventory shuffling with customizable options. Works on both integrated/LAN and dedicated servers, not required on clients.",
+	"authors": [
+		"SametHope"
+	],
+	"contact": {
+		"homepage": "https://github.com/SametHope/mc-inventory-shuffle-mod",
+		"sources": "https://github.com/SametHope/mc-inventory-shuffle-mod",
+		"issues": "https://github.com/SametHope/mc-inventory-shuffle-mod/issues"
+	},
+	"license": "MIT",
+	"icon": "assets/inventory_shuffle/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"samethope.inventory_shuffle.InventoryShuffle"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
