@@ -4,7 +4,7 @@ This is a Fabric mod that shuffles players' inventories based on groups and thos
 
 This mod shuffles inventories on a per-player basis; it does not shuffle/swap inventories between players.
 
-### Official Pages
+Official pages for this mod are:
 - https://github.com/SametHope/mc-inventory-shuffle-mod
 - https://www.curseforge.com/minecraft/mc-mods/inventory-shuffle-mod
 - https://modrinth.com/mod/inventory-shuffle-mod
